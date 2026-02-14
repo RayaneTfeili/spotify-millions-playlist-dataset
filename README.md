@@ -47,21 +47,7 @@ Depending on what you implemented in `Project_final.ipynb`, a recruiter-friendly
 
 > The RecSys Challenge framing and evaluation for playlist continuation is well documented and widely used in the literature. :contentReference[oaicite:4]{index=4}
 
----
 
-## Evaluation (what recruiters expect to see for MPD-style tasks)
-For playlist continuation, common ranking metrics include:
-- **R-Precision**
-- **NDCG**
-- **Recommended Songs Clicks** (Spotify / RecSys Challenge metric)
-
-These are explicitly reported for top solutions in the RecSys Challenge analysis paper. :contentReference[oaicite:5]{index=5}
-
-If your notebook uses simpler baselines, you can also report:
-- **Recall@K / Precision@K**
-- **MAP@K** (mean average precision)
-
----
 
 ## How to run
 ### 1) Clone
